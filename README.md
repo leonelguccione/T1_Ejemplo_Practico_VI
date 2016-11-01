@@ -1,1 +1,1 @@
-# PRACTICO_VI_2016_10_31
+# T1_Ejemplo_Practico_VI
